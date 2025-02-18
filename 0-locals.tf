@@ -5,3 +5,6 @@ locals {
   eks_name            = "zzz-aks"
   eks_version         = "1.31"
 }
+
+
+
